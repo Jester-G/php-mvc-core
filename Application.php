@@ -1,10 +1,10 @@
 <?php
 
-namespace app\Core;
+namespace jesterone\mvccore;
 
-use app\Core\db\Database;
-use app\Core\db\DbModel;
-use app\Core\Exceptions\ForbiddenException;
+use jesterone\mvccore\db\Database;
+use jesterone\mvccore\db\DbModel;
+use jesterone\mvccore\Exceptions\ForbiddenException;
 
 class Application
 {

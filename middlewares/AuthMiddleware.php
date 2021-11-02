@@ -1,9 +1,9 @@
 <?php
 
-namespace app\Core\middlewares;
+namespace jesterone\mvccore\middlewares;
 
-use app\Core\Application;
-use app\Core\Exceptions\ForbiddenException;
+use jesterone\mvccore\Application;
+use jesterone\mvccore\Exceptions\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

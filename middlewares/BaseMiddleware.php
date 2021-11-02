@@ -1,6 +1,6 @@
 <?php
 
-namespace app\Core\middlewares;
+namespace jesterone\mvccore\middlewares;
 
 abstract class BaseMiddleware
 {

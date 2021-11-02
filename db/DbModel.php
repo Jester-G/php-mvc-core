@@ -1,9 +1,9 @@
 <?php
 
-namespace app\Core\db;
+namespace jesterone\mvccore\db;
 
-use app\Core\Application;
-use app\Core\Model;
+use jesterone\mvccore\Application;
+use jesterone\mvccore\Model;
 
 abstract class DbModel extends Model
 {

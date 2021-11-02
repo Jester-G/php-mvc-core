@@ -1,8 +1,8 @@
 <?php
 
-namespace app\Core\form;
+namespace jesterone\mvccore\form;
 
-use app\Core\Model;
+use jesterone\mvccore\Model;
 
 abstract class BaseField
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\Core;
+namespace jesterone\mvccore;
 
-use app\Core\db\DbModel;
+use jesterone\mvccore\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

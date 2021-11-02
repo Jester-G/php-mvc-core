@@ -1,6 +1,6 @@
 <?php
 
-namespace app\Core\Exceptions;
+namespace jesterone\mvccore\Exceptions;
 
 class ForbiddenException extends \Exception
 {

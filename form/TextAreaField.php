@@ -1,6 +1,6 @@
 <?php
 
-namespace app\Core\form;
+namespace jesterone\mvccore\form;
 
 class TextAreaField extends BaseField
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\Core\db;
+namespace jesterone\mvccore\db;
 
-use app\Core\Application;
+use jesterone\mvccore\Application;
 
 class Database
 {

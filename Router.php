@@ -1,9 +1,9 @@
 <?php
 
-namespace app\Core;
+namespace jesterone\mvccore;
 
-use app\Core\Exceptions\ForbiddenException;
-use app\Core\Exceptions\NotFoundException;
+use jesterone\mvccore\Exceptions\ForbiddenException;
+use jesterone\mvccore\Exceptions\NotFoundException;
 
 class Router
 {

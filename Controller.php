@@ -1,8 +1,8 @@
 <?php
 
-namespace app\Core;
+namespace jesterone\mvccore;
 
-use app\Core\middlewares\BaseMiddleware;
+use jesterone\mvccore\middlewares\BaseMiddleware;
 
 class Controller
 {
@@ -10,7 +10,7 @@ class Controller
     public string $action = '';
 
     /**
-     * @var \app\Core\middlewares\BaseMiddleware[]
+     * @var \jesterone\mvccore\middlewares\BaseMiddleware[]
      */
     protected array $middlewares = [];
 
